@@ -14,7 +14,7 @@ function PrimaryButton(props) {
         min-width: ${minWidth};
         color: #64748B;
         &:hover {
-            background: linear-gradient(180deg, #DFEAF1 0%, #F8FAFC 80%);
+            background-color: #D9E2EFB8;
         }
         &:active {
             background: #3B82F6;
