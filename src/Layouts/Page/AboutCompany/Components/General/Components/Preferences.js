@@ -1,7 +1,7 @@
 import TitledTextInput from "../../../../../../Components/TitledTextInput";
 import TitledSelector from "../../../../../../Components/TitledSelector";
-import PrimaryButton from "../../../../../../Components/PrimaryButton";
 import styled from 'styled-components';
+import SecondaryButton from "../../../../../../Components/SecondaryButton";
 
 const Container = styled.div`
    color: #64748B;
@@ -23,7 +23,7 @@ function Preferences() {
                     </div>
                 </div>    
             </Container>    
-            <PrimaryButton>Сохранить</PrimaryButton>
+            <SecondaryButton>Сохранить</SecondaryButton>
         </div>
            
     );

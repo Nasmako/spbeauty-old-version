@@ -7,25 +7,31 @@ body {
 .large-title {
   font-weight: 600;
   font-size: 28px;
-  line-height: 34px;
+  line-height: normal;
+}
+
+.medium-title {
+  font-weight: 900;
+  font-size: 24px;
+  line-height: normal;
 }
 
 .title {
   font-weight: 700;
   font-size: 14px;
-  line-height: 18px;
+  line-height: normal;
 }
 
 .text-lg {
   font-weight: 400;
   font-size: 16px;
-  line-height: 18px;
+  line-height: normal;
 }
 
 .text-md {
   font-weight: 400;
   font-size: 15px;
-  line-height: 17px;
+  line-height: normal;
 }
 
 
@@ -37,12 +43,12 @@ input,
 .text-rg {
   font-weight: 400;
   font-size: 14px;
-  line-height: 16px;
+  line-height: normal;
 }
 
 .caption {
   font-weight: 400;
   font-size: 12px;
-  line-height: 12px;
+  line-height: normal;
 }
 

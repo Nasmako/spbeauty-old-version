@@ -1,4 +1,4 @@
-import PrimaryButton from "../../../../../Components/PrimaryButton";
+import SecondaryButton from "../../../../../Components/SecondaryButton";
 import ListElement from "./ListElement";
 import styled from 'styled-components';
 
@@ -26,7 +26,7 @@ function Addresses() {
                         </div>
                     </div>
                     <div className='d-flex flex-column mt-5'>    
-                        <PrimaryButton>Добавить филиал</PrimaryButton>
+                        <SecondaryButton>Добавить филиал</SecondaryButton>
                     </div>
                 </Container> 
             </div>    

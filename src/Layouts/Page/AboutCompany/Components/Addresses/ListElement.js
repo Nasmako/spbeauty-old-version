@@ -4,10 +4,7 @@ import RemoveIcon from '/workspaces/spbeauty-old-version/src/Icons/RemoveIcon';
 import IconOnlyButton from "/workspaces/spbeauty-old-version/src/Components/IconOnlyButton";
 
 
-const Option = styled.div`
-    outline: none;
-    background-color: #FFFFFF;
-    color: #0F172A;
+const Option = styled.div` 
 `;
 
 function ListElement(props) {
